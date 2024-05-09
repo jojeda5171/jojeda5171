@@ -78,6 +78,69 @@ Throughout my university career, I have actively participated in the execution a
   </a>
 </p>
 
+## Featured Projects
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">Mobile application for electronic billing (BackEnd)</h3>
+  <div align="center">
+    <a href="https://github.com/jojeda5171/EasyFact" target="_blank"><img src="img/projects/EasyFact.svg" width="400" alt="EasyFact"></a>
+    <p>
+      <a href="https://github.com/jojeda5171/EasyFact" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>Developing a <strong>Mobile application for electronic billing BackEnd</strong> - This project involves the creation of an API for a mobile electronic invoicing application. Includes functionalities and sending of emails as indicated by the SRI.</p>
+  </div>                
+</td>
+
+<td width="50%">
+  <br>
+  <h3 align="center">Web application for Certificate Management (BackEnd)</h3>
+  <div align="center">
+    <a href="https://github.com/jojeda517/Certech-BackEnd" target="_blank"><img src="img/projects/Certech.png" width="400" alt="CerTech"></a>
+    <br>
+    <p>
+      <a href="https://github.com/jojeda517/Certech-BackEnd" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>Developing a <strong>Web application for Certificate Management BackEnd</strong> - This project consists of the creation of an API for a web application for the generation and administration of certificates. Includes functionalities to validate the document.</p>
+  </div>   
+</td> 
+</table>   
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">Web application to simulate credits and investments</h3>
+  <div align="center">
+    <a href="https://github.com/jojeda5171/planifica-facil" target="_blank"><img src="img/projects/PlanificaFacil.png" width="400" alt="Planifica Fácil"></a>
+    <p>
+      <a href="https://github.com/jojeda5171/planifica-facil" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>Developing a <strong>Web application to simulate credits and investments</strong> - This credit and investment simulation project has revolutionized the process, offering clients of a banking entity an efficient and accurate way to price their financial options.</p>
+  </div>                
+</td>
+
+<td width="50%">
+  <br>
+  <h3 align="center">Web application to store and manage files</h3>
+  <div align="center">
+    <a href="https://github.com/jojeda517/Seguridad-Frontend" target="_blank"><img src="img/projects/GestorArchivos.png" width="400" alt="MOvil book store"></a>
+    <br>
+    <p>
+      <a href="https://github.com/jojeda517/Seguridad-Frontend" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>Developing a <strong>Web application to store and manage files</strong> - This project consists of the creation of a cloud to store the documents of the students of the Technical University of Ambato.</p>
+  </div>   
+</td> 
+</table>   
+</div>
+
 ## 📊 &nbsp;GitHub Analytics
 
 <p align="center">
