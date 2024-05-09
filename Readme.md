@@ -1,11 +1,15 @@
-![Jose Ojeda Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
 <!-- <img alt="Night Coding" src="https://tenor.com/embed.js" width='40' align="left"/>
 <h2>Hey there! I'm José Ojeda</h2> -->
 
-## 👋 &nbsp;Hey there! I'm José Ojeda
+# 👋 &nbsp;Hey there! I'm José Ojeda
 
-### 👨🏻‍💻 &nbsp;About Me
+<div style="text-align: center;">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+José!;I'm+a+Backend+Developer...;I'm+also+Software+Engineer;And+I'm+a+proud+Ecuadorian+🇪🇨)](https://git.io/typing-svg)
+
+</div>
+
+## 👨🏻‍💻 &nbsp;About Me
 
 Throughout my university career, I have actively participated in the execution and collaboration in multiple projects, which has contributed significantly to my professional development. During this time, I have had the opportunity to immerse myself in a wide range of tools and technologies, which has strengthened my skills and knowledge comprehensively. This experience has allowed me to acquire a solid foundation in problem solving and implementing innovative solutions in collaborative environments.
 
@@ -16,27 +20,65 @@ Throughout my university career, I have actively participated in the execution a
 💬 &nbsp;Don't hesitate to contact me to work on a project.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
+## 🛠 &nbsp;Tech Stack
 
+### 💻 &nbsp;Frameworks
 
-### 🛠 &nbsp;Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=next,react,nodejs,django,fastapi" />
+  </a>
+</p>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk&logoColor=ED8B00)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-05122A?style=flat&logo=tailwind-css&logoColor=38B2AC)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-![Postgre](https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=white)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-05122A?style=flate&logo=Prisma&logoColor=3982CE)&nbsp;
-![GoogleCloud](https://img.shields.io/badge/Google_Cloud-05122A?style=flat&logo=google-cloud&logoColor=4285F4)&nbsp;
+### 🚀 &nbsp;Programming Languages
 
-### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+  </a>
+</p>
+
+### 📝 &nbsp; IDE
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,anaconda" />
+  </a>
+</p>
+
+### 📂 &nbsp;Control Version
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+
+### 🛢️ &nbsp;Database
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+  </a>
+</p>
+
+### 🧩 &nbsp;ORM
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=prisma" />
+  </a>
+</p>
+
+### ☁ &nbsp;Cloud
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=googlecloud" />
+  </a>
+</p>
+
+## 📊 &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/jojeda5171">
