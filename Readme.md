@@ -78,7 +78,7 @@ Throughout my university career, I have actively participated in the execution a
   </a>
 </p>
 
-## Featured Projects
+## 🌟 &nbsp;Featured Projects
 <table>
 <tr>
 <td width="50%">
