@@ -145,7 +145,7 @@ Throughout my university career, I have actively participated in the execution a
 
 <p align="center">
 <a href="https://github.com/jojeda5171">
-  <img src="https://myreadme.vercel.app/api/embed/jojeda5171color=D9AB73&include_all_commits=true&count_private=true&panels=userstatistics,toprepositories,toplanguages,commitgraph&color=D9AB73" alt="reimaginedreadme">
+  <img src="https://myreadme.vercel.app/api/embed/jojeda5171?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme">
   <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jojeda5171&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojeda5171&theme=algolia"/> -->
 </a>
