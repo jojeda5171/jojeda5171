@@ -18,7 +18,7 @@ Throughout my university career, I have actively participated in the execution a
 🌱 &nbsp;I'm on my way to learning more about Security and Cloud Architecture.\
 ✍️ &nbsp;In my free time I dedicate myself to sports and watching movies as hobbies and secondary activities.\
 💬 &nbsp;Don't hesitate to contact me to work on a project.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé]([https://www.adityavsingh.com/resume.html](https://onedrive.live.com/?authkey=%21AIh33jJlTkM5IXg&id=4C6554DB2F4A9B5C%2137636&cid=4C6554DB2F4A9B5C&parId=root&parQt=sharedby&o=OneUp)) for more details about me. I'm open to feedback and suggestions!
 
 ## 🛠 &nbsp;Tech Stack
 
