@@ -4,8 +4,10 @@
 # 👋 &nbsp;Hey there! I'm José Ojeda
 
 <div align="center">
-    <a href="https://jose-ojeda.vercel.app" target="_blank"><img src="img/banner/banner.png" alt="EasyFact"></a>
+    <a href="https://jose-ojeda.vercel.app" target="_blank"><img src="img/banner/banner.png" alt="José Ojeda"></a>
 </div>
+
+<br/>
 
 <div style="text-align: center;">
 
