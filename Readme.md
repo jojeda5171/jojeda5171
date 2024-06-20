@@ -1,7 +1,9 @@
 <!-- <img alt="Night Coding" src="https://tenor.com/embed.js" width='40' align="left"/>
 <h2>Hey there! I'm José Ojeda</h2> -->
 
-# 👋 &nbsp;Hey there! I'm José Ojeda
+<div align="center">
+  <h1>👋 &nbsp;Hey there! I'm José Ojeda</h1>
+</div>
 
 <div align="center">
     <a href="https://jose-ojeda.vercel.app" target="_blank"><img src="img/banner/banner.png" alt="José Ojeda"></a>
